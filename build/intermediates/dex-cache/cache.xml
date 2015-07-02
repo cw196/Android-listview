@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\projects\Assignment2\libraries\volley.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="187cbe75d01957249a0d27f568c8615517652d6e">
+        <dex dex="D:\projects\Assignment2\app\build\intermediates\pre-dexed\debug\volley-155d447c4746b412a44134f47928042ebc50c276.jar" />
+    </item>
+    <item
+        jar="D:\projects\Assignment2\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="D:\projects\Assignment2\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-4664ea84e4f58d5c79262f5fe58352117e42a735.jar" />
+    </item>
+    <item
+        jar="D:\projects\Assignment2\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="D:\projects\Assignment2\app\build\intermediates\pre-dexed\debug\classes-0d7e836432362ed02e0f7747aa77fa6062d9e384.jar" />
+    </item>
+    <item
+        jar="D:\android\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="D:\projects\Assignment2\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-35d16db2b6c3008a4115b89127b8149ef5d5cf3a.jar" />
+    </item>
+
+</items>

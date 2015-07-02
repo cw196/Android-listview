@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.SlidingPaneLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/sliding_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <fragment
+        android:id="@+id/list_fragment"
+        android:name="com.example.wang.fragment.MovieListFragment"
+        android:layout_width="280dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="left"
+        android:tag="MovieListFragment"
+        />
+    <fragment
+        android:id="@+id/details_fragment"
+        android:name="com.example.wang.fragment.MovieDetailsFragment"
+        android:layout_width="300dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:tag="MovieDetailsFragment"
+        />
+</android.support.v4.widget.SlidingPaneLayout>

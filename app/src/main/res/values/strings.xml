@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Assignment2</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="movie_information">
+        <item>In Theaters</item>
+        <item>Opening</item>
+    </string-array>
+
+
+</resources>
