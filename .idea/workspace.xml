@@ -17,9 +17,8 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="app: com.example.wang.assignment2" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="795dcd2d-9d7b-47d7-98cd-68db0e2469c3" name="Default" comment="change 2 from branch 1">
+    <list default="true" id="795dcd2d-9d7b-47d7-98cd-68db0e2469c3" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/example/wang/assignment2/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/wang/assignment2/MainActivity.java" />
     </list>
     <ignored path="Assignment2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -1357,7 +1356,14 @@
       <option name="project" value="LOCAL" />
       <updated>1485985594440</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="change3 from master">
+      <created>1485985814655</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1485985814656</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1437,7 +1443,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="change1" />
     <MESSAGE value="change 2 from branch 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="change 2 from branch 1" />
+    <MESSAGE value="change3 from master" />
+    <option name="LAST_COMMIT_MESSAGE" value="change3 from master" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
