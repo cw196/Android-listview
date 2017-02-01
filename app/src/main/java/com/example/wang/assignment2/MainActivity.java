@@ -36,7 +36,8 @@ import java.util.List;
 
 //change1
 //change 2 from brench 1
-//change 3 from master
+//change 3 from branch 1
+
 
 //main activity
 public class MainActivity extends Activity implements ResponseListener,MovieSelectionListener, ActionBar.OnNavigationListener{
